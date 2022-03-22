@@ -1,0 +1,15 @@
+C:\Users\jnj22\Desktop\ob\0322\bin\Debug\net5.0\0322.exe
+C:\Users\jnj22\Desktop\ob\0322\bin\Debug\net5.0\0322.deps.json
+C:\Users\jnj22\Desktop\ob\0322\bin\Debug\net5.0\0322.runtimeconfig.json
+C:\Users\jnj22\Desktop\ob\0322\bin\Debug\net5.0\0322.runtimeconfig.dev.json
+C:\Users\jnj22\Desktop\ob\0322\bin\Debug\net5.0\0322.dll
+C:\Users\jnj22\Desktop\ob\0322\bin\Debug\net5.0\ref\0322.dll
+C:\Users\jnj22\Desktop\ob\0322\bin\Debug\net5.0\0322.pdb
+C:\Users\jnj22\Desktop\ob\0322\obj\Debug\net5.0\0322.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnj22\Desktop\ob\0322\obj\Debug\net5.0\0322.AssemblyInfoInputs.cache
+C:\Users\jnj22\Desktop\ob\0322\obj\Debug\net5.0\0322.AssemblyInfo.cs
+C:\Users\jnj22\Desktop\ob\0322\obj\Debug\net5.0\0322.csproj.CoreCompileInputs.cache
+C:\Users\jnj22\Desktop\ob\0322\obj\Debug\net5.0\0322.dll
+C:\Users\jnj22\Desktop\ob\0322\obj\Debug\net5.0\ref\0322.dll
+C:\Users\jnj22\Desktop\ob\0322\obj\Debug\net5.0\0322.pdb
+C:\Users\jnj22\Desktop\ob\0322\obj\Debug\net5.0\0322.genruntimeconfig.cache
