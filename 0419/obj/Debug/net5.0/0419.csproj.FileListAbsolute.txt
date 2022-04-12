@@ -1,0 +1,16 @@
+C:\Users\jnj22\Desktop\ob\0419\bin\Debug\net5.0\0419.exe
+C:\Users\jnj22\Desktop\ob\0419\bin\Debug\net5.0\0419.deps.json
+C:\Users\jnj22\Desktop\ob\0419\bin\Debug\net5.0\0419.runtimeconfig.json
+C:\Users\jnj22\Desktop\ob\0419\bin\Debug\net5.0\0419.runtimeconfig.dev.json
+C:\Users\jnj22\Desktop\ob\0419\bin\Debug\net5.0\0419.dll
+C:\Users\jnj22\Desktop\ob\0419\bin\Debug\net5.0\ref\0419.dll
+C:\Users\jnj22\Desktop\ob\0419\bin\Debug\net5.0\0419.pdb
+C:\Users\jnj22\Desktop\ob\0419\obj\Debug\net5.0\0419.csproj.AssemblyReference.cache
+C:\Users\jnj22\Desktop\ob\0419\obj\Debug\net5.0\0419.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnj22\Desktop\ob\0419\obj\Debug\net5.0\0419.AssemblyInfoInputs.cache
+C:\Users\jnj22\Desktop\ob\0419\obj\Debug\net5.0\0419.AssemblyInfo.cs
+C:\Users\jnj22\Desktop\ob\0419\obj\Debug\net5.0\0419.csproj.CoreCompileInputs.cache
+C:\Users\jnj22\Desktop\ob\0419\obj\Debug\net5.0\0419.dll
+C:\Users\jnj22\Desktop\ob\0419\obj\Debug\net5.0\ref\0419.dll
+C:\Users\jnj22\Desktop\ob\0419\obj\Debug\net5.0\0419.pdb
+C:\Users\jnj22\Desktop\ob\0419\obj\Debug\net5.0\0419.genruntimeconfig.cache
